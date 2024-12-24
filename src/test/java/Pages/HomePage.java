@@ -7,7 +7,7 @@ public class HomePage {
     // Web driver
     WebDriver driver;
 
-    // constructor
+    // constructor.
 
     public HomePage(WebDriver driver) {
         this.driver = driver;
